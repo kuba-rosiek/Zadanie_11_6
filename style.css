@@ -1,0 +1,24 @@
+.column {
+	text-align: center;
+	border: solid black 2px;
+	margin: 0;
+	float: left;
+}
+.card {
+	background-color: yellow;
+	border:solid gray 1px;
+	text-align: center;
+	margin: 0;
+
+}
+	
+li {
+	list-style-type: none;	
+}
+.ui-sortable{
+	background: gray;
+	height: 300px;
+	weight: 200px;
+	text-align: center;
+	padding: 0;
+}
